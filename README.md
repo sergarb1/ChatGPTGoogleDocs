@@ -17,6 +17,14 @@ Para usarla debes:
 7) Selecciona un texto.
 8) Pulsa en el menu "ChatGPT" y elige la opción que desees.
 
+Video con ejemplo de uso:
+https://youtu.be/jUMGRuAX8u4
+
 Problemas conocidos:
 1) La selección a veces falla y coge el parrafo completo de la seleccion (en lugar de solo la seleccion)
 2) El texto generado como respuesta a ChatGPT, aunque se visualice como varios parrafos, internamente Google Docs los toma como un unico parrafo. Si necesitas que sean varios parrafos, deberas separarlos a mano (por ejemplo, usando "Intros")
+
+
+Modificar el comportamiento:
+1) Investigando en el codigo, puedes modificar los campos "message" para que el comportamiento se adapte a tus características (por ejemplo, puedes indicar eres un profesor de biologia en lugar de un profesor de matemáticas)
+
