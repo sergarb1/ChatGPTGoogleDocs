@@ -4,7 +4,8 @@ La API de OpenAI es de pago (dan unos dolares al comenzar)
 
 Esta aplicación Utiliza "Google App Scripts" y esta inspirada en https://medium.com/illumination/use-chatgpt-in-google-docs-a-step-by-step-guide-to-integrating-gpt-3-with-google-docs-1caed5106473 
 
-El programa ha sido mejorar y adaptado a los modelos de Chat GPT
+El script de ejemplo de esa web ha sido mejorado y adaptado a los modelos más modernos de Chat GPT.
+
 # Video con ejemplo de uso:
 https://youtu.be/jUMGRuAX8u4
 
