@@ -10,13 +10,13 @@ Para usarla debes:
 
 1) Acceder a tu documento Google Docs
 2) Acceder a "Extensions" y ahí a "App Scripts"
-3) Copia y pega el codigo de este repositorio (esta en el fichero chatgptdocs.gs)
+3) Copia y pega el codigo de este repositorio (esta en el fichero chatgptdocs.gs) dentro de "App Scripts", llamandolo como quieras (Ejemplo: code.gs)
 4) Introduce tu API Key en lugar donde pone XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-5) Selecciona un texto
+5) Guarda el fichero que has creado y dale a "Run".
+6) Vuelve a Google Docs. Si todo ha ido bien, en el menu superior habrá aparecido una entrada llamada "ChatGPT"
+7) Selecciona un texto.
+8) Pulsa en el menu "ChatGPT" y elige la opción que desees.
 
 Problemas conocidos:
 1) La selección a veces falla y coge el parrafo completo de la seleccion (en lugar de solo la seleccion)
 2) El texto generado como respuesta a ChatGPT, aunque se visualice como varios parrafos, internamente Google Docs los toma como un unico parrafo. Si necesitas que sean varios parrafos, deberas separarlos a mano (por ejemplo, usando "Intros")
-
-
-
